@@ -2,7 +2,7 @@
 title: A placeholder, mostly
 date: 2026-07-31
 slug: a-placeholder
-summary: Why I rebuilt travisgafford.com, what the old version got wrong about me, and what this corner of it is for.
+summary: There is a blog here now. At some point there will be things in it.
 draft: false
 ---
 
