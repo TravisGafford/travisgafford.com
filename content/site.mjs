@@ -97,7 +97,7 @@ export const site = {
   // You can use *asterisks* around words to italicize them.
   bio: [
     "I have spent fifteen years in gaming and esports. I started as the lead broadcaster at CBS Interactive, became the face of Yahoo! Esports, and in 2017 went independent under the satirically named *Travis Gafford Industries*.",
-    "Most of that run was League of Legends: thousands of interviews, and *Hotline League*, the call-in show I hosted for eight seasons. I stepped back from covering the game full time in 2025. But I have not stopped creating content, and I have not left esports. I still host, still interview, and still take on the projects that interest me.",
+    "Most of that run took place in League of Legends: encompassing thousands of interviews, and *Hotline League*, the call-in show I hosted for eight seasons. I stepped back from covering the game full time in 2025. But I have not stopped creating content, and I have not left esports. I still host, still interview, and still take on the projects that interest me.",
     "Alongside that, I have spent the last few years moonlighting in trading card games. I create content around *Magic: The Gathering* and *Riftbound*, the League of Legends TCG, and I run a monthly event for folks in both the digital and cardboard games industries.",
     "The third piece is consulting. Brands and tournament organizers moving into gaming or TCG hire me to figure out influencer, event, and content strategy. That work draws on the same relationships and instincts I have been building since 2011.",
   ],
