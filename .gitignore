@@ -1,0 +1,7 @@
+# Generated output. Rebuilt from source every time, never edit by hand.
+_site/
+_preview/
+
+node_modules/
+.DS_Store
+Thumbs.db
